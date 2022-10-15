@@ -1,0 +1,777 @@
+ OSEP Exam Dumps & LAB Writeups
+Password: 1234$
+https://mega.nz/file/hoQRnRbT#0STAJx-RSyF8gAO9GR_S9ncsvA4Yi9w16WtXwftSjlI
+
+ Ziad khaled: CISSP GUIDE 2022
+ Exam Cost: U.S. $699 
+Here are the important CISSP Modules
+1. Security and Risk Management
+2. Asset Security
+3. Security Architecture and Engineering
+4. Communication and Network Security
+5. Identity and Access Management (IAM)
+6. Security Assessment and Testing
+7. Security Operations
+8. Software Development Security
+Practice Course
+https://mega.nz/folder/081wyCiT#T1j-cqnAMJalkTkc0h_s1A
+--------------------------------------------------------------------------------------------------
+https://drive.google.com/file/d/1iF0cHIExRhswJrwgZM3g8US-yGGZz_9W/view?usp=sharing
+#Network_Penetration_Testing
+PTP v5 
+Part1 :https://t.me/Waled_CyberSecurity/89
+Part2 : https://t.me/Waled_CyberSecurity/90
+Part3 : https://t.me/Waled_CyberSecurity/91
+
+eCPTXv2 : https://t.me/Waled_CyberSecurity/176
+ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
+
+[SANS]
+-Sans 560 : Network Penetration Testing           : https://beta.hide01.ir/sans-sec560/
+
+-Sans 660 : Advanced Network Penetration Testing  : https://hide01.ir/downloads/sec660/by
+___________________________________________________________________________________________________ 
+
+[Offensive Security]
+
+pwk OSCP : Offenaive Security Certified Profissional    : https://beta.hide01.ir/pwk-oscp/
+No
+CTP OSCE : Offensive Security Certified Expert          : https://beta.hide01.ir/ctp-osce/
+
+OSWP wifu : Offensive Security Whireless Profissional   : https://beta.hide01.ir/wifu-oswp/
+
+________________________________________________________________________________________________
+
+[YouTube]
+
+Kali Linux For Network Scaning : https://youtube.com/playlist?list=PLLHk9TDJK7kr0c9VWojmJsv5nMbY5vfz8
+
+[Hassan Saad]
+https://youtube.com/playlist?list=PLtr9ezc61PUbNjSOzxVn98CSy9WrJ_nUQ
+
+[CEH v10] (arabic) : https://www.youtube.com/watch?v=gmOGkmn0jRk&list=PLCIJjtzQPZJ-gm80_z7Svq4UlJSbOKdM4 
+
+[OSCP] (arabic) : https://youtu.be/7RI8QF7uUgE
+
+Port Scaning : https://youtube.com/playlist?list=PLDRMxi70CdSBc0ZvEOjtxzuL2eBWmoNRM
+________________________________________________________________________________________________
+
+[Pentester Academy]
+https://mega.nz/folder/CBk2hZ7Y#RcM7lTvA1Gilj2v_SIw6dg
+
+CRTP : https://t.me/Waled_CyberSecurity/125?single
+
+________________________________________________________________________________________________
+
+[Tools ]
+
+https://t.me/TheMalware_Team/1513
+[6/29, 3:48 AM] Ziad khaled: #Web_Application_Penetration_Testing
+
+[eLearn]
+-eWAPT :https://t.me/Waled_CyberSecurity/178
+
+eWAPTv2 :https://t.me/Waled_CyberSecurity/181
+
+eWAPTv3 : https://t.me/Waled_CyberSecurity/96
+
+eWAPTXv2 : https://t.me/Waled_CyberSecurity/181
+
+____________________________________________________________________________________________________
+
+[SANS]
+
+Sans 542 : Wep App Penetration Testing : https://hide01.ir/downloads/sec542/
+
+Sans  642 : Advanced Web App Penetration Testing : https://hide01.ir/downloads/sec642/
+____________________________________________________________________________________________________
+
+[Offenaive Security]
+AWAE OSWE : Offensive Sexurity Web Expert : https://beta.hide01.ir/awae-oswe/
+
+________________________________________________________________________________________________________________
+[YouTube]
+
+Kali Linux For Web : https://youtube.com/playlist?list=PLLHk9TDJK7kozI5BymBp9SnwIL88chZKB
+
+[Ebrah Hegazy Course]             : https://youtube.com/playlist?list=PLv7cogHXoVhXvHPzIl1dWtBiYUAL8baHj
+
+Web Pentest ( Cyber Guy)          : https://youtube.com/playlist?list=PLDRMxi70CdSBHODkNy87kqqGUSnl0ASxg
+
+[Mohamed Sayed Course]            : https://youtube.com/playlist?list=PLsB1gqjeUAh_yEuLgtZ0ppLlExcYOL2Kp
+
+Web Penteating ( Arab Haxksploit) : https://youtube.com/playlist?list=PLTSGZiCtCBfMMLkmaN7tGEhbc0QbOEtEA
+
+XSS ( arab Hacksploit)            : https://youtube.com/playlist?list=PLTSGZiCtCBfOIpwLfbZF9-l-TXquOEGq8
+
+Cyber Sec (jurdon)                : https://youtu.be/8n1D5vAC9cs
+
+Web App Pentest                   : https://youtube.com/playlist?list=PLsB1gqjeUAh_yEuLgtZ0ppLlExcYOL2Kp
+
+OWASP TOP 10                      : https://youtube.com/playlist?list=PLqM63j87R5p5xzR4eVp_zpMkFQYt9wF
+
+____________________________________________________________________________________________________________________
+
+[Books]
+
+Web App Hackers Handbook : https://t.me/Waled_CyberSecurity/34
+
+[Pentester Academy]      : https://mega.nz/folder/CBk2hZ7Y#RcM7lTvA1Gilj2v_SIw6dg
+
+Udemy                    : https://t.me/MalwareT_Courses/102?single
+
+________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________
+دي حاجات من التراث لحد وقتنا لما اعوز افهم عن جزء معين بخش اقراه
+  
+Part 1 Cyber Security Introduction   ________________________ : https://www.facebook.com/doctor.virus11/posts/1304119813034412
+Part 2 Cyber Security Jobs           ________________________ : https://www.facebook.com/doctor.virus11/posts/1307695806010146
+Part 3 OWASP TOP 10 2017             ________________________ : https://www.facebook.com/doctor.virus11/posts/1314417812004612
+Part 4 Dark Web Intro                ________________________ : http://www.mediafire.com/file/c7yv2y52qe3t4dv/Post%20%234.docx
+Part 5 Malware Types                 ________________________ : https://www.facebook.com/doctor.virus11/posts/1322085997904460
+Part 6 Bug Bounty Intro              ________________________ : https://www.facebook.com/doctor.virus11/posts/1327273317385728
+Part 7 Digital Forensics             ________________________ : https://www.facebook.com/doctor.virus11/posts/1331401643639562
+Part 8 Cyber Security FAQ            ________________________ : https://www.facebook.com/doctor.virus11/posts/1334244353355291
+Part 9 Exploitation Development      ________________________ : https://www.facebook.com/doctor.virus11/posts/1343989132380813
+Part 10 Reverse Engineering          ________________________ : https://www.facebook.com/doctor.virus11/posts/1348570971922629
+Part 11 Technical Guide how to start?________________________ : https://www.facebook.com/doctor.virus11/posts/1351923768254016
+Part 12 SQL Injection                ________________________ : https://www.facebook.com/doctor.virus11/posts/1362751210504605
+Part 13 How to Hunt a Bug ?!         ________________________ : https://www.facebook.com/doctor.virus11/posts/1373297896116603
+Part 14 SANS Resources               ________________________ : https://www.facebook.com/doctor.virus11/posts/1382549785191414
+Part 15 Malware Analysis             ________________________ : https://www.facebook.com/doctor.virus11/posts/1385632808216445
+Part 16 Mobile Penetration Testing   ________________________ : https://www.facebook.com/doctor.virus11/posts/1397264617053264
+Part 17 How to CTF                   ________________________ : https://www.facebook.com/doctor.virus11/posts/1409099232536469
+Part 18 Cyber Attacks Types          ________________________ : https://www.facebook.com/doctor.virus11/posts/1421258547987204
+Part 19 How to get Cyber Security Job________________________ : https://www.facebook.com/doctor.virus11/posts/1427263130720079
+Part 20 How to Offensive your Career ________________________ : https://www.facebook.com/doctor.virus11/posts/1453700721409653
+Part 21 How to Start as a Pentester  ________________________ : https://www.facebook.com/doctor.virus11/posts/1466025253510533
+Part 22 Cold Security [Evasion Techniques]___________________ : https://www.facebook.com/doctor.virus11/posts/1473091679470557
+Part 23 most Common Web Application Vulnerabilities__________ : https://www.facebook.com/doctor.virus11/posts/1481172565329135
+Part 24 Blockchain Penetration Testing ______________________ : https://www.facebook.com/doctor.virus11/posts/1526426264137098
+Part 25 How to Think Like a Bad guy__________________________ : https://www.facebook.com/doctor.virus11/posts/1550818748364516
+Part 26 Penetration Tester Obstacles ________________________ : https://www.facebook.com/doctor.virus11/posts/1568190219960702
+Part 27 Penetration Testing Interview Question ______________ : https://www.facebook.com/doctor.virus11/posts/1584990751613982
+Part 28 Penetration Testing of the Smart Devil ______________ : https://www.facebook.com/doctor.virus11/posts/1674453246001065
+Part 29 The Blue Team's nightmare ___________________________ : https://www.facebook.com/doctor.virus11/posts/1692948570818199
+Part 30 Cyber Intelligence __________________________________ : https://www.facebook.com/doctor.virus11/posts/1762406290539093
+Part 31 Dark Web Threat Intelligence_________________________ : https://www.facebook.com/doctor.virus11/posts/1769202773192778
+Part 32 Rise From Darkness __________________________________ : https://www.facebook.com/doctor.virus11/posts/1786964328083289
+Part 33 Security Code Reviewing _____________________________ : https://www.facebook.com/doctor.virus11/posts/1912484588864595
+Part 34 Web Defenders in an offensively vision ______________ : https://www.facebook.com/doctor.virus11/posts/2001380983308288
+Part 35 : Machines Pwning  __________________________________ : https://www.facebook.com/doctor.virus11/posts/2025110327602020
+Part 36 : Dark Web OSINT ____________________________________ : https://www.facebook.com/doctor.virus11/posts/2190111857768532
+Part 37 : A Day of Cyber Criminal's Life ____________________ : https://www.facebook.com/doctor.virus11/posts/2230375293742188
+Part 38 : Firmware Penetration Testing ______________________ : https://www.facebook.com/doctor.virus11/posts/2417535628359486
+Part 39 : Physical Red Teaming ______________________________ : https://www.facebook.com/doctor.virus11/posts/2450972648349117
+ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ  
+ Premium Udemy Courses
+
+- https://mega.nz/folder/efY0AR4T#0jnk5etjz1jfX2kmhvdJYw
+- https://mega.nz/folder/1DRUUBoR#K1ywmHQSe3SnqjpWkV0o7g
+- https://mega.nz/folder/FSZHwKBa#iGFBQB78N-gUs4KCl31B9g
+- https://mega.nz/folder/11IDBAgA#aZ0mCPN8EuwX3lP3tBT7Zw
+- https://mega.nz/folder/gxIHkQaa#CKCdB3_bO0bKYG36fen4OQ
+- https://mega.nz/folder/wt5HGICC#TnMvorTOW_k3hsTHEW4x9w
+- https://mega.nz/folder/GF5zTIbJ#UcubyKl1B2YW0HiaMmim9Q
+- https://mega.nz/folder/DUwSWLpT#fbqm6GMSIhB45PZqZv35jA
+- https://mega.nz/folder/TE50iBiB#m-tntw3K8FPlOQV8gSS1CQ
+- https://mega.nz/folder/3GhkAJwD#gRdopc_Uz23qmxPxi3rWgQ
+- https://mega.nz/folder/XHoiCDgC#oMbKU6pHPzV-6l9qBQcBbw
+- https://mega.nz/folder/KLA0QTz8ybhyC9sSkArGXudQvKTrw
+- https://mega.nz/folder/xDBggB5R#__8JJX9IVYZKaOxNTWX2ww
+
+Penetration Testing for Jobseekers: Perform Ethical Hacking across Web Apps, Networks, Mobile Devices using Kali Linux Original website 
+
+https://www.amazon.com/Penetration-Testing-Jobseekers-Networks-Metasploit/dp/9355511973
+https://www.mediafire.com/file/dwpoa5zoqesr6rl/Penetration_Testing_for_Jobseekers.rar/file
+Password: doozy
+ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
+Dump CEHV11
+
+https://drive.google.com/file/d/1BJeFt3i-gXbN72J_TVgFRQsWX1TwC8o_/view
+
+Sans Courses:
+
+https://s4.gamesdrive.net/0:/SANS/
+
+Cisco course All .. and more 
+https://mega.nz/folder/ZLB3CSwK...
+
+https://drive.google.com/file/d/1Fb1vNrxcg2N1rDIprnEMHXvURhhKu-bh/view?usp=sharing
+1 Bug Bounty Bootcamp
+
+The Guide to Finding and Reporting
+Web Vulnerabilities
+2 Handbook for CTFers 
+  https://drive.google.com/file/d/1GNJtn1OILpRuO9iQ2iCz-4XdXvjeX57a/view?usp=sharing
+  https://drive.google.com/file/d/11OAQW-N_dsp5ZIfQODqm5kUwj42A4FZ2/view
+  https://drive.google.com/drive/mobile/folders/1wniooIDbtt7yI9tx1sCjVdKn3ftZNas2
+  https://drive.google.com/drive/mobile/folders/1Ns62tznu2mj7Q0QktrWGCcNsrL5CigtN
+  Bug bounty complete course
+  https://mega.nz/folder/Ge4gmSIL#lW-7XC2DnEKryjXie35APw (https://mega.nz/folder/Ge4gmSIL#lW-7XC2DnEKryjXie35APw)
+  Checkpoint Certified Security Expert.                                                                                                                                                                                       
+
+ https://drive.google.com/drive/folders/1NvppaL0DDd_dkRH49gMmcmdIzj03HkS_?fbclid=IwAR1LB1HVDSRwqXpAL-3vbZe77_cvsAKval70ZUCnqYOtMVxO25kcMeInGbY
+ https://www.udemy.com/course/self-taught-programmer/?couponCode=E198C41E703A10B21AD8
+ https://www.udemy.com/course/ethical-hacking-professional/?couponCode=686B1F12E37644E4F28A
+ https://www.udemy.com/course/python-complete/?couponCode=FB5A44BDB26EEC19E237
+ SOC ANALYSTS CYBER SECURITY
+
+(https://mega.nz/folder/ExV3mITb#7eCbqf1Fzrf6x5TyVea9Hw/folder/Rw9lRYxB)
+ CHFI labs and Tools 
+
+(https://mega.nz/folder/fBJzUYQY#yhs2nAV7DwCTL6xiil9OgQ)
+
+ CCNA Cloud
+https://mega.nz/#F!h8J1Rb5L!5Yr9Uc2deHaAcRe2cl1qMg
+
+CCNA Collaboration
+https://mega.nz/#F!xloRCCKR!T6grMYndq4x30YDPdQBSpQ
+
+CCNA Cyber Ops
+https://mega.nz/#F!E8ZznLjK!7svH9q5kuygqXoeRSgGwmQ
+
+CCNA Data Center
+https://mega.nz/#F!Ek5RABhR!ex2c5WgXAxzA3U8AUDnLvg
+
+CCNA Security
+https://mega.nz/#F!VooVWb5b!SYOifjCW569KQ5pkpe4taA
+
+CCNA Service Provider
+https://mega.nz/#F!R4Q3hZpI!qKYBgyYPz5IbvGJp_2TNvA
+
+CCNA Wireless
+https://mega.nz/#F!5k5RiBZD!3euwAjHUwTT2uDjSNd62PQ
+ offensive software Exploitation
+
+(https://mega.nz/folder/6yIGUS6S#emCYnM2TH2o_rUPf4FSVdQ)
+ SANS 560
+
+(https://mega.nz/folder/4NdgmYiJ#vfsYQPiyMy7xJ7m1r7Skrg)
+ SANS 560
+
+(https://mega.nz/folder/4NdgmYiJ#vfsYQPiyMy7xJ7m1r7Skrg)
+(https://drive.google.com/drive/u/0/folders/1t-hTqg0-02t0cnc5SypHnb8t3CfE3bXU?fbclid=IwAR2IVJvxIrLupuOxKjl7hfOA6CmUH-WCapEJHTuz0zWdq_lMRLMlg9sFK4M)
+ ⭕️ Lynda Android Malware Analysis ⭕️
+
+(https://mega.nz/folder/CoJhAQTQ#AmEegH_cQGefqrIBXoWU0w)
+ Free CCNA 200-301 
+https://m.youtube.com/watch?list=PLhfrWIlLOoKPc2RecyiM_A9nf3fUU3e6g&v=zxZpopqhKk8
+ #Cyber_Security #Courses #udemyfree
+
+https://www.udemy.com/course/cyber-security-specialization-part-1/?couponCode=BC47F0345289BA97D00E
+ https://mega.nz/folder/DM4G0S5R#93C9yi7j3gjBZdyuiGVjjA
+
+
+https://www.udemy.com/course/android-penetration-testing-using-diva/?couponCode=FREETHREEDAYS
+Free Courses #Udemy 
+
+Advanced Java Course 
+
+(https://www.udemy.com/course/learn-java-from-scratch-l/?couponCode=9918-QQ)
+
+Java Course For Beginners
+
+(https://www.udemy.com/course/the-ultimate-java-course-zero-to-hero/?couponCode=NUTTAR-11)
+
+A Beginner's Guide To Learn C++ Programming
+(https://www.udemy.com/course/the-ultimate-c-course-beginner-to-advanced/?couponCode=817-99-1)
+ IP Addressing and Subnetting - Zero to Hero 
+
+(https://www.udemy.com/course/ip-addressing-zero-to-hero/?couponCode=1EFAB701A1C0480C7003)
+(https://www.udemy.com/course/the-absolute-tools-guide-to-cyber-security-and-hacking/?couponCode=AUGUSTMIDMONTH)
+ Cisco Wireless About 350 GB.
+
+ (https://mega.nz/folder/b35m1aLC#US1_QddqokAlVAdO5zl4GQ)
+ (https://mega.nz/folder/IIpXmJDT#6ddbNZXgZC7wJEqkOoc16A)
+ (https://mega.nz/folder/j98H2KCZ#Vt2U0kZGV3U8vvUTLDpc2Q)
+
+Dec Key 
+
+(https://mega.nz/folder/j98H2KCZ#Vt2U0kZGV3U8vvUTLDpc2Q)
+ Elearn Security
+https://mega.nz/folder/3oATxaQI#wfkfrXdquO3zGITjlRDXzg
+ ITPro Tv N+ (N10-007) 
+
+
+ https://mega.nz/folder/jw1mUS5Q#YHqTwianUlQoYT5pxWW36g/folder/7x9QgASJ
+ https://mega.nz/folder/qgZE1KyL#h_07x-_XE0O8WODhCqdO7A
+ https://drive.google.com/drive/folders/1Ns62tznu2mj7Q0QktrWGCcNsrL5CigtN?fbclid=IwAR1b_8P1iaezhQHKqdHfiQ_FDmBjpvXeBS2xnDs8R3QsIm4IJY7RSb1tjtE
+ https://drive.google.com/drive/folders/1ztz_woWpkd4I6gq3-cFCLd9eeBSo8eqv
+ https://drive.google.com/drive/folders/1vovYa6Aat7a6v990E3EURr-ipeE5oFfF?fbclid=IwAR2UhQlMnSbf6uQLDqxlwmzyi1zESu5ckd66a11N4YP-ZC4nlo2Y3G3V7ao
+ https://drive.google.com/drive/folders/1q2sOBNU4lPBkwtF1Msl6uCACBV5TUGWD
+ https://drive.google.com/drive/folders/1ZaWvuULAlIl_TBzDb5-YWN9VQDfwc-XO
+ https://drive.google.com/drive/folders/1wniooIDbtt7yI9tx1sCjVdKn3ftZNas2
+ https://drive.google.com/drive/folders/1Ns62tznu2mj7Q0QktrWGCcNsrL5CigtN
+ Security Career          https://drive.google.com/open?id=1JGQEXMAtRKW63grSl6PnKkoXG46jp_mC
+
+ SIEM Solutions           https://drive.google.com/open?id=1oDDNcGK3-my_9lXNFm7JIbSO262hfKaQ
+
+ Security Books           https://drive.google.com/open?id=1TYQx-qNuvyeyHHHYz2u5vn0P2s1SRoBw
+
+ *Python*                 https://drive.google.com/open?id=1uAfpfac3FsJevBg9CYV4Gi65MAYd9V4I
+
+ *PMP*                    https://drive.google.com/open?id=1_MQO335jA7D4mZ0aBOxfi-yPToKJ6Ost
+
+ *Programming Books*      https://drive.google.com/open?id=19HFLJrwjLrzp1JXHfM4hq2VW3sjCy7Kh
+
+ *Prince 2*               https://drive.google.com/open?id=1LqwtHSN9LUAfuFS-GRz5dtOrav-llFtW
+
+ *MS OFFICE EXCEL*        https://drive.google.com/open?id=1YI6HUhT064EcSoy4vcBEoTO6PDi4JYT-
+
+*MAHESH CERTIFICATE*      https://drive.google.com/open?id=165qCAOftqI_Ap3lEee2MlpRVfd6_GaF_
+
+*MACHNE LEARNING*         https://drive.google.com/open?id=1eHvY5sUnpzDgHyMeQEF6pTGmlYN1uMVT
+
+*ITIL V4*                 https://drive.google.com/open?id=1GGl9a_iX5R1WKM0NrCrd-6iiVV7no9iZ
+
+*ISO 27001*               https://drive.google.com/open?id=1CLzAHvkDqkmtd6XKRskNJu4pBEa3HTFO
+
+*FORENSIC INVESTIGATIONS* https://drive.google.com/open?id=1XnjhXB5POB0RU8JHew-9belkFyVWKEJ5
+
+*F5 LOAD BALANCER*        https://drive.google.com/open?id=1P2HRL0fzxONOLa_0mJ43A44GlBW58p9F
+
+*CYBER SECURITY BOOKS*    https://drive.google.com/open?id=179D_slEOLXWOTeFdmRrMkdV8C4DSLdYT
+
+*CISSP*                   https://drive.google.com/open?id=1OTCyiNN7Km-ZFN_ciDAHGmEeKhyaXrnC
+
+*CISM*                    https://drive.google.com/open?id=1-Vhz0RPtSnLXfpMcLyirSBPCE3BfcfIm
+
+*CISA*                    https://drive.google.com/open?id=1vf5E7Yd09km31ZzcJ2_F0VH0hWRMEi8O
+
+*CRISC*                   https://drive.google.com/open?id=1ThyyDGQUhd1gZD92synPGLwK4v0sugcv
+
+*CEH*                     https://drive.google.com/open?id=18uplnigsTyLHFwEBiY2vcHDYQfFo4NVf
+
+*CCNA SECURITY*           https://drive.google.com/open?id=14atH7h_WUDpCu_ePtGJysnAcHOAolOf_
+
+*CCDA*                    https://drive.google.com/open?id=17ChJX5uTL-MXO--haZNzYDubELvcJppV
+
+*CMMI*                    https://drive.google.com/open?id=1Vu61J3x7PssHJbGLCO1CM4Uf5HwC8OzB
+
+*AZURE*                   https://drive.google.com/open?id=1hBkIuBjePJmzHgt4Fg7Vglv6_YYPNNPA
+
+*AWS*                     https://drive.google.com/open?id=1xu0wB2f7Xc6d1NuQ6yP9vxBFVXo1WoIj
+  
+*FIREWALLS*               https://drive.google.com/open?id=1_6y_KzHsV-de3r8zzcMnTdrKemPs1XZM
+
+*AGILE, COBIT, TOGAF*     https://drive.google.com/open?id=1VnHqXYj-d2tAFJsAPw2NnFVsTnm_aGvt
+
+
+ https://github.com/SofianeHamlaoui/Lockdoor-Framework
+ https://m.youtube.com/playlist?list=PL-hP6aTHaW0PUXxQO-fP1wK_ZLZ6xtrdv
+ https://futtress.com/what-is-encryption/
+
+
+[ Github Repositories ] :
+
+1. Book of Secret Knowledge = https://github.com/trimstray/the-book-of-secret-knowledge
+2. Awesome Hacking = https://github.com/Hack-with-Github/Awesome-Hacking
+3. Awesome Bug Bounty = https://github.com/djadmin/awesome-bug-bounty
+4. Awesome Penetration Testing = https://github.com/wtsxDev/Penetration-Testing
+5. Awesome Web Hacking = https://github.com/infoslack/awesome-web-hacking
+6. Awesome Hacking Resources = https://github.com/vitalysim/Awesome-Hacking-Resources
+7. Awesome Pentest = https://github.com/enaqx/awesome-pentest
+8. Awesome Red Teaming = https://github.com/yeyintminthuhtut/Awesome-Red-Teaming
+9. Awesome Web Security = https://github.com/qazbnm456/awesome-web-security
+10. Penetration Test Guide based on OWASP = https://github.com/Voorivex/pentest-guide
+11. Pentest Compilation = https://github.com/adon90/pentest_compilation
+12. Infosec Reference = https://github.com/rmusser01/Infosec_Reference
+ 🔥 3000$ ULTIMATE HACKING PACKAGE LEAK 🔥
+
+Course worth: 3000$
+
+VIDEO CONTENTS
+
+1. Cyber security analyst training
+2. Cyber security advanced test detecting techniques
+3. Cyber security Malicious software detector
+4. Cyber security source code defender
+5. Cyber security threat intelligence research
+6. Cyber security web application defender
+7. Cyber training 365 certified ethical Hacker
+8. Cyber training 365 computer hacker and forensics
+9. Cyber training 365 kali 101
+
+Total size: 36.90 GB
+
+Link :
+https://mega.nz/folder/HGg2TCTA#CjyPNP3bktKV9w4_g2xUDg/folder/vfgiDK4T
+
+Enjoy 👍❤️
+ #HANDS #HACKING
+
+https://mega.nz/file/EeQhjaLI#yVDaAM4FcV5QlVY2Tp1vag8LuR3ge5pOXvAb-oxkehw
+ Alex Main yVDaAM4FcV5QlVY2Tp1vag8LuR3ge5pOXvAb-oxkehw
+ #CERBERUS #CYBER #WISE
+
+https://mega.nz/file/QKhlRLRA#G6n1nEQCtKSgc412JL2_xrTzz-sSfSSu0xzILdnuWfI
+ https://cyber-zones.com/training-outlines
+ 74 GB Courses Collection :
+#YD_Cloud
+
+
+https://mega.nz/folder/7hARkQjS#yZt80bKwwCxT4vrE65TCJw
+ https://mega.nz/folder/CPxUiAAS#GVXzHzu_kUyfpHM1jMPPIQ
+ Ethical hacking
+ https://drive.google.com/drive/mobile/folders/0ByzazsLLzvFwLVNfSW5BeS0yLTg
+1️⃣ Preparation - Creating A Penetration Testing Lab
+2️⃣ Prepataion - Linux Basics
+3️⃣ Website Basics
+4️⃣ Information Gathering
+5️⃣ File Upload Vulnerabilities
+6️⃣ Code Execution Vulnerabilities
+7️⃣ Local File Inclusion Vulnerabilities
+8️⃣ Remote Files Inclusion Vulnerabilities
+9️⃣ SQL Injection Vulnerabilities
+🔟 XSS Vulnerabilities
+1️⃣1️⃣ Insecure Session Management
+1️⃣2️⃣ Bruteforce Dictionary Attacks
+1️⃣3️⃣ Discovering Vulnerabilities Automatically Using Owaps ZAP
+1️⃣4️⃣ Post Exploitation
+1️⃣5️⃣ Bonus Section
+Download link:-
+ https://mega.nz/folder/3ipEGIzZ#VAvV7N8XZHD-sZ3RULvI9g
+(https://mega.nz/folder/FU5niJwJ#uBm7Eim9HfoIQfdK383zPw)
+ 😈📡 Burp Suite Hacking course 👿
+ 
+1) Introduction
+https://mega.nz/folder/eM8RkKDI#9SdZ2Xl2hVqBlcmZXtTCSA
+
+2)  Getting Started with Ethical Hacking Lab Setup
+https://mega.nz/folder/HdtXgSbY#UMtTyZwueUKW2GwK7GG4xw
+
+3) Getting Started with Bug Bounty Hunting
+https://mega.nz/folder/SRlRQSrb#Nl3xNMhGS3hxU2cx0MoUyA
+
+4)  Getting Started with Burp Suite
+https://mega.nz/folder/7MkjHQ7B#XRg5d6vl3kb8iqTS43bnAg
+
+5)  Burp Suite Tools Introductions
+https://mega.nz/folder/TElzmADC#1oaSZ5wyUQ95sJep9b0UJg
+
+6)  Broken Authentication and Session Management
+https://mega.nz/folder/iU1nmYqB#pYKw1uf68ghJKurXtCTxmQ
+
+7)  Insecure Direct Object Reference Vulnerability
+https://mega.nz/folder/nA8zgIIT#RYoWjUwgLI9WVX0NsrxFnA
+
+8)  Security Miss Configuration Vulnerabilities
+https://mega.nz/folder/KA9j2KLT#Vtn3GLuZyWR2gbDwTsuZQg
+
+9) SQL Injection Vulnerabilities 
+https://mega.nz/folder/uBkXWSZS#1isYLVqGqob7Q0SLTFyssw
+
+10) Cross Site Scripting(XSS) Vulnerability
+https://mega.nz/folder/KU9BBQIJ#DKB3fTUMNXlfBLZYZE2JFg
+
+11)  Various Injection Vulnerabilities and Attacks
+https://mega.nz/folder/zcsliIpb#x_NbLw7vCPK6b0vqhD4PWA
+
+12) Cookie Session Vulnerability Crash
+https://mega.nz/folder/iB8lRSDa#46GhOEVqXEfWwvwdN1-YMA😈📡 Burp Suite Hacking course 👿
+  Bug Bounty and Web Hacking 
+
+1) Introduction
+https://mega.nz/folder/eM8RkKDI#9SdZ2Xl2hVqBlcmZXtTCSA
+
+2)  Getting Started with Ethical Hacking Lab Setup
+https://mega.nz/folder/HdtXgSbY#UMtTyZwueUKW2GwK7GG4xw
+
+3) Getting Started with Bug Bounty Hunting
+https://mega.nz/folder/SRlRQSrb#Nl3xNMhGS3hxU2cx0MoUyA
+
+4)  Getting Started with Burp Suite
+https://mega.nz/folder/7MkjHQ7B#XRg5d6vl3kb8iqTS43bnAg
+
+5)  Burp Suite Tools Introductions
+https://mega.nz/folder/TElzmADC#1oaSZ5wyUQ95sJep9b0UJg
+
+6)  Broken Authentication and Session Management
+https://mega.nz/folder/iU1nmYqB#pYKw1uf68ghJKurXtCTxmQ
+
+7)  Insecure Direct Object Reference Vulnerability
+https://mega.nz/folder/nA8zgIIT#RYoWjUwgLI9WVX0NsrxFnA
+
+8)  Security Miss Configuration Vulnerabilities
+https://mega.nz/folder/KA9j2KLT#Vtn3GLuZyWR2gbDwTsuZQg
+
+9) SQL Injection Vulnerabilities 
+https://mega.nz/folder/uBkXWSZS#1isYLVqGqob7Q0SLTFyssw
+
+10) Cross Site Scripting(XSS) Vulnerability
+https://mega.nz/folder/KU9BBQIJ#DKB3fTUMNXlfBLZYZE2JFg
+
+11)  Various Injection Vulnerabilities and Attacks
+https://mega.nz/folder/zcsliIpb#x_NbLw7vCPK6b0vqhD4PWA
+
+12) Cookie Session Vulnerability Crash
+https://mega.nz/folder/iB8lRSDa#46GhOEVqXEfWwvwdN1-YMA
+ https://mega.nz/folder/fBJzUYQY#yhs2nAV7DwCTL6xiil9OgQ
+ SANS - SEC617 v2020 PDF
+https://gofile.io/d/SQkoQy
+
+SANS - SEC617 v2020 Audio
+https://gofile.io/d/9XCrBs
+
+SANS - SEC617 v2020 Video
+https://gofile.io/d/OQQHcq
+
+SANS - SEC642 v2017 PDF
+https://gofile.io/d/DerBAF
+
+SANS - SEC642 v2017 USB
+https://gofile.io/d/Mv8VL5
+
+SANS - SEC642 v2017 Video
+https://gofile.io/d/3Nsa2Q
+
+SANS - SEC660 v2018 USB
+https://gofile.io/d/x2TqlS
+
+Ziad Khalid, [8/23/2022 5:41 PM]
+SANS - SEC660 v2020 PDF
+https://gofile.io/d/SdDM3a
+
+SANS - SEC660 v2020 Video
+https://gofile.io/d/a6uIJc
+
+SANS - SEC710 v2011 PDF
+https://gofile.io/d/8BRKRW
+
+SANS - SEC710 v2011 USB
+https://gofile.io/d/ni6sYo
+
+SANS - SEC760 v2019 PDF
+https://gofile.io/d/KU8kml
+
+SANS - SEC760 v2019 USB
+https://gofile.io/d/yTKRlP
+ ㊙️ zSecurity All Courses ㊙️
+
+▪️Learn Ethical Hacking From Scratch
+▪️Learn Python & Ethical Hacking From Scratch
+▪️Website Hacking Penetration Testing & Bug Bounty Hunting
+▪️The Ultimate Dark Web, Anonymity, Privacy & Security Course
+▪️Learn Hacking Using Android From Scratch
+▪️Network Hacking Continued - Intermediate to Advanced
+▪️Learn Network Hacking From Scratch (WiFi & Wired)
+▪️Learn Social Engineering From Scratch
+▪️Learn Wi-Fi Password Penetration Testing (WEP/WPA/WPA2)
+▪️ARP spoofing & Man In The Middle Attacks Execution & Detection
+
+Size : 16GB
+🔗 Download Link:
+https://mega.nz/folder/q0Zm3Q5I#YT8cfxVaiy8RxQ-m7qf1Sw
+ 🔰All 49GB LINUX PRO BY CERTIFICATED WHITE HATS COURSE 2020🔰
+
+🖇Link : https://mega.nz/folder/3dkjkJSa#BLyY2ufMT25ng2-bPhw7Tw
+ 🔰 Some Bunch of useful E-books 🔰
+
+CYBER SECURITY BOOKS
+https://drive.google.com/open?id=179D_slEOLXWOTeFdmRrMkdV8C4DSLdYT
+
+CISSP             
+https://drive.google.com/open?id=1OTCyiNN7Km-ZFN_ciDAHGmEeKhyaXrnC
+
+CISM                  
+https://drive.google.com/open?id=1-Vhz0RPtSnLXfpMcLyirSBPCE3BfcfIm
+
+CISA               
+https://drive.google.com/open?id=1vf5E7Yd09km31ZzcJ2_F0VH0hWRMEi8O
+
+CRISC                  
+https://drive.google.com/open?id=1ThyyDGQUhd1gZD92synPGLwK4v0sugcv
+
+CEH                 
+https://drive.google.com/open?id=18uplnigsTyLHFwEBiY2vcHDYQfFo4NVf
+
+CCNA SECURITY        
+https://drive.google.com/open?id=14atH7h_WUDpCu_ePtGJysnAcHOAolOf_
+
+CCDA                  
+https://drive.google.com/open?id=17ChJX5uTL-MXO--haZNzYDubELvcJppV
+
+CMMI                 
+https://drive.google.com/open?id=1Vu61J3x7PssHJbGLCO1CM4Uf5HwC8OzB
+
+AZURE                
+https://drive.google.com/open?id=1hBkIuBjePJmzHgt4Fg7Vglv6_YYPNNPA
+
+AWS                 
+https://drive.google.com/open?id=1xu0wB2f7Xc6d1NuQ6yP9vxBFVXo1WoIj
+
+FIREWALLS          
+https://drive.google.com/open?id=1_6y_KzHsV-de3r8zzcMnTdrKemPs1XZM
+
+AGILE, COBIT, TOGAF 
+https://drive.google.com/open?id=1VnHqXYj-d2tAFJsAPw2NnFVsTnm_aGvt
+ 🔰Ethical Hacking & IT Security - All Malcolm Shore Courses 🔰
+By Mr_Neophyte
+
+✳️Size :- 4.84GB
+
+✴️Including :-
+
+▫️Cybersecurity for IT Professionals
+
+▫️Cybersecurity with Cloud Computing
+
+▫️Cybersecurity Foundations
+
+▫️Ethical Hacking Denial of Service
+
+▫️Ethical Hacking Enumeration
+
+▫️Ethical Hacking Session Hijacking
+
+▫️Ethical Hacking Wireless Networks
+
+▫️Ethical Hacking Mobile Devices and Platforms
+
+▫️Ethical Hacking Website and Web Application Testing
+
+▫️Ethical Hacking Exploits
+
+▫️Ethical Hacking Perimeter Defenses
+
+▫️Learning Kali Linux
+
+▫️Securing the IoT Designing and Testing
+
+▫️Securing Android Apps
+
+▫️Securing the IoT Secure Architectures
+
+▫️Penetration Testing Essential Training
+
+▫️Ransomware Practical Reverse Engineering
+
+Download Link :- https://mega.nz/folder/zMN00AKJ#V9ZTkIgJiE03YJDDwHe9Jw
+ 🔰BOOKS FOR HACKING(FOR EVERY LEVEL OF HACKERS)🔰
+
+🟢Here We Share Some Ebooks For Every Level Of Hackers. You Can Read This Ebooks For Increase Your Knowledge.
+
+All Premium Books For Free
+
+⭕️L?NK :- https://mega.nz/folder/SlhihQKb#0ggUkIVF4bZcug2Ms2Wu1g
+
+http//t.me blackHatHackers256
+ #HASH #CRACK
+
+Decryption Key: j3EUGCVHUOUVPtb8xeddubGCu7MJGmyUoa0PO-VspM4
+
+https://mega.nz/file/0ChUxIgQ#j3EUGCVHUOUVPtb8xeddubGCu7MJGmyUoa0PO-VspM4
+ 100% Free available Cyber Security courses
+
+
+Cisco Networking Academy: https://www.netacad.com/courses/security
+Fortinet NSE Program: https://training.fortinet.com/local/s...
+ICS Cyber Security Threats: https://ics-cert-training.inl.gov/learn
+SANS Cyber Aces: https://www.cyberaces.org/courses.html
+Tenable University: https://www.tenable.com/education/on-...
+Palo Alto Networks (EDU-010): https://www.paloaltonetworks.com/serv...
+Cloud Security by Coursera: https://www.coursera.org/promo/cloud-...
+Fundamentals of Red Hat Enterprise Linux: https://www.edx.org/course/fundamenta...
+IBM Security Learning Academy: https://www.securitylearningacademy.c...
+Microsoft Azure: https://info.microsoft.com/US-AzureAp...
+Cybrary Cyber Security: https://www.cybrary.it/catalog/cybers...
+Udemy: https://www.udemy.com/courses/search/...
+ #FICTION #SECURITY
+
+http://www.easybytez[.]com/5d7f9yqt8o47
+4books
+ Pentest Notes - Approaching a Target
+
+https://pentestmag.com/pentest-notes-approaching-a-target/
+
+#pentest #magazine #pentestmag #pentestblog #PTblog #OSINT #pentesting #target #approach #cybersecurity #infosecurity #infosec
+ McGrawHill - CompTIA CySA+ Cybersecurity Analyst Certification All-in-One Exam
+Epub
+https://gofile.io/d/P7do9U
+PDF
+https://gofile.io/d/6xg5ls
+ Jones & Bartlett Learning - Managing Risk in Information Systems, 3rd Edition, by Darril Gibson & Andy Igonor
+EPUB
+https://gofile.io/d/VXQnOf
+PDF
+https://gofile.io/d/gWYmzb
+ CiscoPress - ACI Advanced Monitoring and Troubleshooting, by Sadiq, Carlo & Joseph
+EPUB
+https://gofile.io/d/yl7Or4
+PDF
+https://gofile.io/d/nUqF2n
+ The Complete Deep Web & Dark Web Course become an Expert !! - 100% Free
+
+Download Link below
+
+Content:
+
+1. Welcome To The Complete Deep Web Course!
+2. Introduction To The Deep Web
+3. Setting Up The Environment
+4. Hands On With The Deep Web
+5. Deep Web Link Directories ( A Huge onion link collection)
+6. Bitcoin & Cryptocurrency On The Deep Web
+7. PGP Tutorial - Deep Web
+8. How To Create And Host A Deep Web WebsiteOnion Site
+9. How To Access The Deep Web On Android
+
+Link: https://drive.google.com/drive/folders/1samgMCdCtgB6S7W7eKANtSmSLF_uI3Nq
+Add Friend Request to my Profile.
+Future you can get more Courses and Ebooks from my Profile.
+ Ethical Hacking With Kali Linux: Learn Fast How To Hack Like A Pro (2020)
+
+The contents in this book will provide practical hands on implementation and demonstration guide on how you can use Kali Linux to deploy various attacks on both wired and wireless networks.
+
+If you are truly interested in becoming an Ethical Hacker or Penetration Tester, this book is for you.
+
+NOTE: If you attempt to use any of this tools on a wired or wireless network without being authorized and you disturb or damage any systems, that would be considered illegal black hat hacking. Therefore, I would like to encourage all readers to implement any tool described in this book for WHITE HAT USE ONLY!
+
+This book will cover:
+•How to Install Virtual Box & Kali Linux
+•Pen Testing @ Stage 1, Stage 2 and Stage 3
+•What Penetration Testing Standards exist
+•How to scan for open ports, host and network devices
+•Burp Suite Proxy setup and Spidering hosts
+•How to deploy SQL Injection with SQLmap
+•How to implement Dictionary Attack with Airodump-ng
+•How to deploy ARP Poisoning with EtterCAP
+•How to capture Traffic with Port Mirroring & with Xplico
+•How to deploy Passive Reconnaissance
+•How to implement MITM Attack with Ettercap & SSLstrip
+•How to Manipulate Packets with Scapy
+•How to deploy Deauthentication Attack
+•How to capture IPv6 Packets with Parasite6
+•How to deploy Evil Twin Deauthentication Attack with mdk3
+•How to deploy DoS Attack with MKD3
+•How to implement Brute Force Attack with TCP Hydra
+•How to deploy Armitage Hail Mary
+•The Metasploit Framework
+•How to use SET aka Social-Engineering Toolkit and more.
+
+
+PDF .. [https://sociadrive.com/Uqs](https://sociadrive.com/Uqs?fbclid=IwAR2hqmMxRW5jcr9l9Ej_dfZIGio8K6SSF-4O_rqUOOKmXi7NTIajPCuKF1c)
+ Google Dorks an Easy Way of Hacking
+All you need for “Google Dork”, is a computer, an internet connection, and knowledge of the appropriate search syntax.
+An article I made about Google Dorks, "How to start" A Step-by-Step walkthrough, and more..!
+https://hackingpassion.com/google-dorks-an-easy-way-of-hacking/
+Here is a script I made for using the Google Dorks - Dorks Eye:
+https://hackingpassion.com/2020/04/30/dorks-eye-google-hacking-dork-scraping-and-searching-script/
+Here on my GitHub, I put a Dork Lists of 13.760 Google Dorks:
+https://github.com/BullsEye0/google_dork_list
+YouTube:
+https://www.youtube.com/BullsEyeJolandadeKoff
+LBRY
+https://lbry.tv/$/invite/@hackingpassion:9
+ Download For Free
+                                     
+CompTIA CySA+ (CS0-001) Complete Course and Practice Exam:
+https://mega.nz/folder/CtFG3Bob#bJaSR-RNH3LfH7hn6l3EaQ
+Offensive Computer Security:
+https://mega.nz/folder/OlcUgLzB#4ntf1bylZoPzl0hCkXjWpg
+Bug Bounty Hunting Offensive Approach To Hunt Bugs:
+https://mega.nz/folder/7ldEVL5R#why2G8OVO73frxdoZZ14LA
+
+
